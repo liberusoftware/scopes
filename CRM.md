@@ -682,6 +682,11 @@ Target:
 
 - PHPStan max level
 - Laravel Pint
+
+
+## Extras
+
+inbound calling, auto dialer (outbound calling automatically calling next contact on the specified or generated list for sales team), the full list of advertising platforms and social and quotations on home page linked and the subdomain tenants
 - Rector
 - Mutation testing (Infection)
 - CI/CD pipeline validation
