@@ -3,7 +3,7 @@
 ```text
 /goal
 
-Refactor the repository into a complete Liberu Laravel application based on a cloned copy of `liberusoftware/boilerplate-laravel`. Generate implementation code only for core, API, Filament, and Livewire modules. Do not create React, Vue, Nuxt, Inertia, React Native, Flutter, or any other separate presentation module in this run; those are later implementation phases.
+Refactor the repository into a complete Liberu Laravel application based on a cloned copy of `liberusoftware/boilerplate-laravel`. Generate implementation code only for core, API, Filament, and Livewire modules. Do not create React, Vue, Nuxt, Inertia, React Native, Flutter, or any other separate presentation module in this run; those are later implementation phases. Use the module- prefix for modules and theme- prefix for themes at github.com/liberusoftware however for themes at packagist do not use the module- prefix but keep it for themes as theme- prefix
 
 Use this exact repository bootstrap and promotion order:
 
